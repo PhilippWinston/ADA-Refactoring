@@ -25,11 +25,10 @@ Vist the site and inspect the site unsing Devtools, [Horiseon Link Here](https:/
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+ADA References,
+[Deque University](https://dequeuniversity.com/rules/axe/4.6/image-alt?application=axe-linter)
 
 
-[def]: ass
+## License
+
+N/A
